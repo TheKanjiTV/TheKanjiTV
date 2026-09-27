@@ -95,11 +95,6 @@ Web3 Development        ██████████░░░░░░░░�
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="./profile/stats.svg" alt="Kenji's GitHub Stats"/>
-  <img height="180em" src="./profile/top-langs.svg" alt="Kenji's Most Used Languages"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=TheKanjiTV&theme=github-dark-blue&hide_border=true" alt="Kenji's GitHub Streak"/>
 </p>
 
