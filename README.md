@@ -158,7 +158,3 @@ I'm especially interested in opportunities involving **Frontend Development, Web
 <p align="center">
   <i>Designing experiences. Developing solutions. Always learning.</i>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheKanjiTV&label=Profile%20Views&style=flat-square" alt="Profile Views"/>
-</p>
